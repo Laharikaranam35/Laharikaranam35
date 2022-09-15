@@ -13,11 +13,9 @@ For E2 machine types, use:
 zones/ZONE/machineTypes/e2-custom-NUMBER_OF_CPUS-AMOUNT_OF_MEMORY_MB
 
 For E2 shared-core custom machine types, use:
-
 zones/ZONE/machineTypes/e2-custom-SHARED_CORE_MACHINE_SIZE-AMOUNT_OF_MEMORY_MB
 
 URL would create an instance with 4 vCPUs and 5 GB (5120 MB) of memory:
-
 
 zones/us-central1-f/machineTypes/custom-4-5120 
 
